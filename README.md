@@ -1,7 +1,7 @@
 # Hi, I'm Khalid Iqnaibi
 
 **AI Engineer & Systems Developer** based in Hebron, Palestine  
-Creator of [BinderSoftware.com](https://bindersoftware.com)  
+Creator of [BinderSoftware.com](https://www.bindersoftware.com)  
 B.Sc. Computer Science student at Palestine Polytechnic University  
 Former Computer Engineering student at Cyprus International University  
 
@@ -23,7 +23,7 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 
 ### Key Projects
 
-#### [Binder Software](https://bindersoftware.com)
+#### [Binder Software](https://www.bindersoftware.com)
 - Used by 40+ doctors managing over 1,500+ patients
 - Tools for **medical clinics**, **vehicle service centers**, and **legal document processing**
 
