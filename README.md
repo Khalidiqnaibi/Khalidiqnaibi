@@ -30,12 +30,14 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 - <500ms pipeline latency  
 - Stack: PaddleOCR, SpaCy, ONNX , TensorRT
 
-#### Diagnosis AI (Academic Research)
+#### Diagnosis AI
 - Educational diagnostic assistant for medical students  
-- Walks through diagnosis using LLM reasoning & vectorized textbooks (BioNimo)
+- Walks through diagnosis using LLM reasoning & vectorized textbooks
 
-#### A.S.H Speech Classification (Research)
-- Hybrid AI architecture for emotion, intent, and sentence-type detection from speech
+#### A.S.H
+- Deterministic AI runtime for low-resource hardware (Raspberry Pi)
+- Multi-layer memory, intent classification, LLM rendering, always-on operation
+- Stack: Python, SentenceTransformers, LangChain, Ollama/LLMs, JSON storage
 
 #### Indie Game Development
 - Built games using Godot + Blender (custom physics, 3D logic)
