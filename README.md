@@ -63,4 +63,4 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 ---
 Want to learn more? [Click here to view my full CV.](https://www.linkedin.com/in/khalid-iqnaibi)
 
-[Download My Full CV](https://github.com/Khalidiqnaibi/Khalidiqnaibi/blob/main/Resume__.pdf)
+[Download My Full CV](https://github.com/Khalidiqnaibi/Khalidiqnaibi/blob/main/__Resume__.pdf)
