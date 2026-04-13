@@ -24,10 +24,6 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 - Used by  doctors managing over 2000+ patients
 - Tools for **medical clinics**, and **legal document processing**
 
-#### DoxMind (Trusted Systems)
-- AI platform for financial documents  
-- Stack: PaddleOCR, SpaCy, ONNX , TensorRT
-
 #### Diagnosis AI
 - Educational diagnostic assistant for medical students  
 - Walks through diagnosis using LLM reasoning & vectorized textbooks with full provonance
