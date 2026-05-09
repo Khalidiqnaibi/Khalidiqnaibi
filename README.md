@@ -1,7 +1,7 @@
 # Hi, I'm Khalid Iqnaibi
 
 **AI Engineer & Systems Developer** based in Hebron, Palestine  
-Creator of [BinderSoftware.com](https://www.bindersoftware.com)  
+developed [BinderSoftware.com](https://www.bindersoftware.com)  
 Computer Science student at Palestine Polytechnic University  
 Former Computer Engineering student at Cyprus International University  
 
@@ -12,7 +12,7 @@ Former Computer Engineering student at Cyprus International University
 I'm a self-taught AI engineer, with:
 
 - Strong focus on building real-time AI systems for real-world use  
-- Co-Founder of [**Gradicent LLC**](https://www.gradicent.com) (accounting, medical & legal tools and solutions)  
+- Lead backend developer of [**Gradicent LLC**](https://www.gradicent.com) (accounting & medical tools and solutions)  
 
 I'm passionate about building tools that **amplify intelligence**, **streamline workflows**, and **solve complex problems** in fields like medicine, law, and finance.
 
@@ -22,7 +22,7 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 
 #### [Binder Software](https://www.bindersoftware.com)
 - Used by  doctors managing over 2000+ patients
-- Tools for **medical clinics**, and **legal document processing**
+- Tools for **medical clinics**
 
 #### Diagnosis AI
 - Educational diagnostic assistant for medical students  
