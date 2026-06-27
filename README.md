@@ -49,7 +49,7 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 
 ### Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalid-iqnaibi/)
-- [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:khalidiqnaibi@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:khalidqnabi@gmail.com)
 - [![Phone](https://img.shields.io/badge/Phone-%2B972_592131946-brightgreen?style=flat&logo=whatsapp)](tel:+972592840353)
 - [![Website](https://img.shields.io/badge/bindersoftware-.com-blue)](https://www.bindersoftware.com)
 
