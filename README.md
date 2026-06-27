@@ -1,7 +1,7 @@
 # Hi, I'm Khalid Iqnaibi
 
 **AI Engineer & Systems Developer** based in Hebron, Palestine  
-developed [BinderSoftware.com](https://www.bindersoftware.com)  
+developed [![Website](https://img.shields.io/badge/bindersoftware-.com-blue)](https://www.bindersoftware.com)  
 Computer Science student at Palestine Polytechnic University  
 Former Computer Engineering student at Cyprus International University  
 
@@ -12,7 +12,7 @@ Former Computer Engineering student at Cyprus International University
 I'm a self-taught AI engineer, with:
 
 - Strong focus on building real-time AI systems for real-world use  
-- Lead backend developer of [**Gradicent LLC**](https://www.gradicent.com) (accounting & medical tools and solutions)  
+- Lead backend developer of [![**Gradicent LLC**](https://img.shields.io/badge/gradicent-.com-yellow)](https://www.gradicent.com)   (accounting & medical tools and solutions)  
 
 I'm passionate about building tools that **amplify intelligence**, **streamline workflows**, and **solve complex problems** in fields like medicine, law, and finance.
 
@@ -48,10 +48,12 @@ I'm passionate about building tools that **amplify intelligence**, **streamline 
 ---
 
 ### Contact
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalid-iqnaibi/)
+- [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:khalidiqnaibi@gmail.com)
+- [![Phone](https://img.shields.io/badge/Phone-%2B972_592131946-brightgreen?style=flat&logo=whatsapp)](tel:+972592840353)
+- [![Website](https://img.shields.io/badge/bindersoftware-.com-blue)](https://www.bindersoftware.com)
 
-- Email: [khalidiqnaibi@gmail.com](mailto:khalidiqnaibi@gmail.com) 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khalid-iqnaibi)  
-- Website: [BinderSoftware.com](https://www.bindersoftware.com)
+ 
 
 ---
 [Click here to view my full CV.](https://github.com/Khalidiqnaibi/Khalidiqnaibi/blob/main/__Resume__.pdf)
